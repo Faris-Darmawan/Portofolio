@@ -1,3 +1,2 @@
-# Portofolio
-CV Faris Darmawan
+# CV Faris Darmawan
 Curriculum Vitae (CV) Online
